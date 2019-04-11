@@ -24,6 +24,8 @@
 <script src="themes/js/common.js"></script>
 <script src="themes/js/jquery.flexslider-min.js"></script>
 </head>
+    
+    
 <body>
 <jsp:include page="header.jsp"></jsp:include>
 	<div id="wrapper" class="container">
