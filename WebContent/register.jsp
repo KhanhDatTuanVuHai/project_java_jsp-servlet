@@ -18,6 +18,10 @@
 <script src="themes/js/superfish.js"></script>
 <script src="themes/js/jquery.scrolltotop.js"></script>
 
+
+
+
+
 <script src="themes/js/common.js"></script>
 <script src="themes/js/jquery.flexslider-min.js"></script>
 </head>
